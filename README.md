@@ -29,7 +29,7 @@ Hydratation côté client
 
 Une fois le JavaScript chargé sur le navigateur, Next.js :
 
-Remplace le placeholder (<div data-next-hydrate="xyz"></div>) par le rendu réel du ClientComponent.
+Remplace le placeholde par le rendu réel du ClientComponent.
 
 Exécute le code du Client Component côté client.
 
